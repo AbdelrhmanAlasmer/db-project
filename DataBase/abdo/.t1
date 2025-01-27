@@ -1,0 +1,3 @@
+id|int|yes|
+name|str|no|
+salary|int|no
